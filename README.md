@@ -19,8 +19,6 @@
 
 <div align="">
     <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZ1ZDIwbmtuemQwNDV6MG9xdjZ2anBscjk2ZGUyZ3hxemFlaXp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kTtv6Tq2xpDzMD3J9Y/giphy.gif" width="150" />
-
-  <br>
   
   ### 🛠️ Technologies i study
   
