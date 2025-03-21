@@ -35,7 +35,7 @@
 
 
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/ferreiravih/ferreiravih/output/snake.svg" alt="Snake animation" width="1000"  />
 
