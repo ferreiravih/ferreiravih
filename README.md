@@ -19,7 +19,8 @@
 
 <div align="">
     <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZ1ZDIwbmtuemQwNDV6MG9xdjZ2anBscjk2ZGUyZ3hxemFlaXp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kTtv6Tq2xpDzMD3J9Y/giphy.gif" width="150" />
-  
+
+  <br>
   
   ### 🛠️ Technologies i study
   
@@ -30,7 +31,6 @@
     <img align="center" alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="PHP"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="MySQL" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="C#" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
 </div>
