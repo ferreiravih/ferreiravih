@@ -34,5 +34,11 @@
   <img align="center" alt="C#" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/ferreiravih/ferreiravih/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
